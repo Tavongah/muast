@@ -316,48 +316,32 @@
     
 </header>
 
-<div class="slider-area">
-    <div class="slider-active owl-carousel">
-        <div class="single-slider slider-height-1 bg-img" style="background-image:url(images/muastpic.jpg);">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-9 col-md-7 col-12 col-sm-12">
-                        
-                    <div class="teacher-img">
-                        <h4>The Faculty of Plant and Animal Sciences and Technology</h4>
-                        <img src="images/teacher-3.jpg" alt>
-                    </div>
-                        
-                    </div>
-                </div>
-              
-            </div>
-        </div>
-        <div class="single-slider slider-height-1 bg-img" style="background-image:url(images/muastpic1.jpg);">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-9 col-md-7 col-12 col-sm-12">
-                        <div class="slider-content slider-animated-1 pt-230">
-                            <h1 class="animated">Start Your Journey With Us</h1>
-                           
-                            <div class="slider-btn">
-                              
-                                <a class="animated default-btn btn-white-color" href="contact.html">APPLY ONLINE</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="slider-single-img slider-animated-1">
-                    <img class="animated" src="images/muastpic3.png" alt>
-                </div>
-            </div>
-        </div>
-    </div>
+<div class="jumbtron bg-secondary  bg-opacity-25">
+ <br>
+ <br>
 </div>
-
-
-
-
+<br>
+<br>
+<br>
+ <div class="section-title mb-75">
+    <center><h2><span>Vice Chancellor’s Office</span></h2></center>
+</div>
+<br>
+<br>
+<br>
+     <div class="container">
+            
+            <div class="custom-col-5">
+                <div class="single-teacher mb-30">
+                    <div class="teacher-img">
+                    
+                        <img src="images/vc.png" alt>
+                        
+                    </div>
+                </div>
+     </div>
+                    
+</div>
 
 <footer class="footer-area">
     <div class="footer-top bg-img default-overlay pt-130 pb-80" style="background-image:url(images/bg-4.jpg);">
