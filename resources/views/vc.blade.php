@@ -330,7 +330,7 @@
 <br>
 <br>
      <div class="container">
-            
+     <div class="custom-row">
             <div class="custom-col-5">
                 <div class="single-teacher mb-30">
                     <div class="teacher-img">
@@ -338,8 +338,47 @@
                         <img src="images/vc.png" alt>
                         
                     </div>
+                  
                 </div>
-     </div>
+                <p>Professor Justice Nyamangara</p>
+                <br>
+
+        </div>
+        <div class="col-9 bg-light">
+        <br>
+         <center>
+        
+             <h4>Contact Details</h4>
+           <br>
+           <div class="row">
+               <div class="col-sm">
+                   <strong>VC Direct Lines</strong>
+                   <p><strong>Telephone:</strong> +263 232 0618</p>
+                   <p><strong>Email    :</strong> vc@muast.ac.zw</p>
+               </div>
+              <div class="col-sm">
+                  <strong>VC Reception</strong>
+                  <p><strong>Landline:</strong> +263 232 0617</p>
+                  <p><strong>Mobile  :</strong> +263 71 930 2162</p>
+              </div>
+            </div>
+        </center>
+        </div>
+        <p> Professor Justice Nyamangara is a renowned and accomplished Scientist who has authored and co-authored numerous scientific articles including more than 100 refereed journal papers. He is a prolific academic having successfully supervised 9 Doctor of Philosophy (DPhil) and 5 Master of Philosophy (MPhil) students at the University of Zimbabwe, University of Pretoria (South Africa), Wageningen University (Netherlands) and Manchester Metropolitan University (UK). He is currently supervising 9 Doctor of Philosophy and 2 MPhil students at University of Zimbabwe, Chinhoyi University of Technology, Bindura University of Science Education and Marondera University of Agricultural Sciences and Technology.
+
+Professor Nyamangara has participated in many research and development projects in soils, crop production, environmental pollution and climate change. He is currently Associate Editor of the South African Journal of Plant, a member of the Editorial Board of Agriculture Ecosystem and Environment (published by Elsevier) and review editor of Climate-Smart Food Systems section of Frontiers In Sustainable Food Systems journal.
+
+Professor Nyamangara is the current President of the Soil Science Society of Zimbabwe and is qualified with a BSc Agriculture Honours degree (Soil Science major) from the University of Zimbabwe (1987-1989). He was awarded a British Council Scholarship in 1992 to study for a Master of Science in Soil Science degree at the University of Aberdeen in Scotland. In 1995 he was awarded a Swedish International Development Agency (SIDA) scholarship to study for a Doctor of Philosophy degree at the University of Zimbabwe, jointly supervised from the Swedish University of Agricultural Sciences (SLU) and he graduated in 2001.</p>
+ <br>    
+<p>
+In his working life, Professor Nyamangara started as a Pedologist/Soil Surveyor and Soil Chemist in 1990 at Chemistry and Soil Research Institute (CSRI) of the Department of Research and Specialist Services (DR&SS) in Zimbabwe. He rose through the ranks to become Principal Research Officer and Head of Crop Nutrition Section.
+
+In 2000, Professor Nyamangara joined the University of Zimbabwe as a full time Lecturer in the Department of Soil Science and Agricultural Engineering and became Associate Professor in 2007. From 2007 to 2008, Professor Nyamangara was a Visiting Scientist at the International Centre for Tropical Agriculture (CIAT) based in Lilongwe, Malawi while on sabbatical leave from the University of Zimbabwe. In January 2009, he was appointed Deputy Dean of the Faculty of Agriculture at the University of Zimbabwe. In the same year Professor Nyamangara joined the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) as Internationally Recruited Scientist (IRS), Eastern and Southern Africa (ESA) region and was based in Bulawayo, Zimbabwe. Professor Justice Nyamangara joined Chinhoyi University of Technology in 2014 as Professorial Chair in the Department of Environmental Science and Technology and in June 2016 he was appointed Pro-Vice Chancellor responsible for Academic Affairs, Research and Administration.
+
+In January 2019 Professor Nyamangara was appointed Founding Vice Chancellor of Marondera University of Agricultural Sciences and Technology (MUAST).
+</p>
+<br>
+</div>
                     
 </div>
 
